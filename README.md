@@ -1,6 +1,6 @@
 ![logo](https://github.com/zimmy9537/oculus/blob/main/Content%20Strategy%20101%20(1)%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Zimmy Changela</h1>
-<h3 align="center">A passionate and Experienced Android and iOS developer from India</h3>
+<h3 align="center">A passionate and Experienced Android and iOS developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimmy9537&label=Profile%20views&color=0e75b6&style=flat" alt="zimmy9537" /> </p>
 
@@ -37,3 +37,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zimmy9537&show_icons=true&locale=en" alt="zimmy9537" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zimmy9537&" alt="zimmy9537" /></p>
+
+
+<h3 align="left">Top Repositories:</h3>
+
+
+<a href="https://github.com/zimmy9537/SplitMoney">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zimmy9537&repo=SplitMoney&theme=buefy" />
+</a>
+<a href="https://github.com/zimmy9537/AirBnb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zimmy9537&repo=AirBnb&theme=buefy" />
+</a>
+
+<br />
+<br />
