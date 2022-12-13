@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zimmy.9724@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17RxT0n8Ci_AAOAmUm77qNxSvRJwPTWT_/view?usp=sharing](https://drive.google.com/file/d/17RxT0n8Ci_AAOAmUm77qNxSvRJwPTWT_/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17RxT0n8Ci_AAOAmUm77qNxSvRJwPTWT_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
