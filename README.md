@@ -1,7 +1,6 @@
+![logo](https://github.com/zimmy9537/oculus/blob/main/Content%20Strategy%20101%20(1)%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Zimmy Changela</h1>
 <h3 align="center">A passionate and Experienced Android and iOS developer from India</h3>
-
-<img align="right" alt="coding" width="400" src=“https://raw.githubusercontent.com/zimmy9537/oculus/main/devGif.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimmy9537&label=Profile%20views&color=0e75b6&style=flat" alt="zimmy9537" /> </p>
 
