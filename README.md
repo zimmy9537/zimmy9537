@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Zimmy Changela</h1>
 <h3 align="center">A passionate and Experienced Android and iOS developer from India 🇮🇳</h3>
 
+&nbsp;&nbsp;&nbsp;I am a experienced Android Developer with a demonstrated history of working in the internet industry. Skilled in Mobile Application Development 📱, C++, Android, and Java. I am a Problem Solver. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimmy9537&label=Profile%20views&color=0e75b6&style=flat" alt="zimmy9537" /> </p>
@@ -12,13 +16,17 @@
 
 - 🌱 I’m currently learning **Android Jetpack compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zimmy9537](https://github.com/zimmy9537)
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/zimmy9537)
 
 - 💬 Ask me about **Android, Kotlin, SwiftUi, Django Rest Framework**
 
 - 📫 How to reach me **zimmy.9724@yahoo.com**
 
+- 💁🏼 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/zimmy-changela-56318a191/)
+
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17RxT0n8Ci_AAOAmUm77qNxSvRJwPTWT_/view?usp=sharing)
+
+- 📚 When I am free, I read finance and self-help books.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
