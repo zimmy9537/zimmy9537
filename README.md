@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Zimmy Changela</h1>
 <h3 align="center">A passionate and Experienced Android and iOS developer from India 🇮🇳</h3>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimmy9537&label=Profile%20views&color=0e75b6&style=flat" alt="zimmy9537" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zimmy9537" alt="zimmy9537" /></a> </p> -->
