@@ -1,4 +1,4 @@
-![logo](https://github.com/zimmy9537/oculus/blob/main/Content%20Strategy%20101%20(1)%20(1).png?raw=true)
+![logo](https://github.com/zimmy9537/oculus/blob/main/Content%20Strategy%20101.png?raw=true)
 <h1 align="center">Hi 👋, I'm Zimmy Changela</h1>
 <h3 align="center">A passionate and Experienced Android and iOS developer from India 🇮🇳</h3>
 
