@@ -2,17 +2,17 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hi, I'm Zimmy Changela
+  Hi 👋, I'm Zimmy Changela
 </h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=0078d4&center=true&width=500&lines=Cloud+Architect;Backend+Engineer;AI+%26+ML+Explorer;Full-Stack+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=0078d4&center=true&width=500&lines=Full-Stack+Developer;Cloud+Architect;Backend+Engineer;Frontend+Specialist;AI+%26+ML+Explorer">
   </a>
 </p>
 
 <p align="center">
-  Building intelligent systems on cloud infrastructure. From serverless architectures to generative AI pipelines—I architect end-to-end solutions that scale.
+  Building intelligent, scalable systems end-to-end. From cloud infrastructure and robust backends with NestJS to modern frontends with React—I architect complete solutions that scale.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -56,19 +56,19 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,kotlin,java,swift,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,typescript,kotlin,java,swift,nodejs,javascript" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,gitlab" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,gitlab,github" />
 
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=django,express,nodejs,graphql,postgresql,dynamodb" />
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,postgresql,dynamodb,graphql" />
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,figma" />
+### Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,html,css,figma,vscode" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,linux" />
+### Mobile & Advanced
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jupyter,git,linux" />
 
 </div>
 
@@ -80,9 +80,9 @@
 |---------|------|-------------|
 | **[Transcoder](https://github.com/zimmy9537/Transcoder)** | Python, AWS CDK, Lambda, ECS | Serverless video transcoding pipeline with multi-resolution support and scalable architecture |
 | **[RAG Use Cases](https://github.com/zimmy9537/RAG_usecases)** | LLMs, Python, Prompt Engineering | Practical implementations of Retrieval-Augmented Generation for enterprise intelligence |
-| **[AirBnb Clone](https://github.com/zimmy9537/AirBnb)** | Kotlin, Jetpack Compose, MVVM | Production-grade Android app showcasing modern architecture patterns |
-| **[Quotes API](https://github.com/zimmy9537/quotesDrf)** | Django REST, PostgreSQL, Kotlin | Full-stack project: backend API with Android client integration |
-| **[Stocker](https://github.com/zimmy9537/Stocker)** | Kotlin, Compose, LiveData | Stock market app demonstrating reactive programming and state management |
+| **[AirBnb Clone](https://github.com/zimmy9537/AirBnb)** | Kotlin, Jetpack Compose, MVVM | Production-grade Android app showcasing modern architecture patterns and reactive programming |
+| **[Quotes API](https://github.com/zimmy9537/quotesDrf)** | Django REST, PostgreSQL, Kotlin | Full-stack: backend API with Android client integration demonstrating end-to-end development |
+| **[Stocker](https://github.com/zimmy9537/Stocker)** | Kotlin, Compose, LiveData | Stock market app with real-time data management and modern state management patterns |
 
 ---
 
@@ -92,29 +92,29 @@
   <tr>
     <td align="center" width="33%">
       <h4>☁️ Cloud Architecture</h4>
-      AWS CDK, Infrastructure as Code, Microservices, Serverless Design
+      AWS CDK, Infrastructure as Code, Microservices, Serverless Design, CI/CD Automation
     </td>
     <td align="center" width="33%">
-      <h4>🔧 Backend Engineering</h4>
-      RESTful APIs, Django, Node.js, Database Design, System Scaling
+      <h4>🔧 Full-Stack Engineering</h4>
+      NestJS, React, RESTful APIs, GraphQL, Database Design, System Scaling
     </td>
     <td align="center" width="33%">
       <h4>🤖 AI/ML</h4>
-      RAG, LLMs, Prompt Engineering, Generative AI Solutions
+      RAG, LLMs, Prompt Engineering, Generative AI Solutions, ML Integration
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <h4>📱 Mobile Dev</h4>
-      Kotlin, Jetpack, Modern Android Patterns, Hilt DI
+      Kotlin, Jetpack Compose, Modern Android Patterns, Hilt DI, State Management
     </td>
     <td align="center" width="33%">
-      <h4>🔐 DevOps & CI/CD</h4>
-      Docker, Kubernetes basics, Pipeline Optimization, Testing
+      <h4>🎨 Frontend Development</h4>
+      React, Component Architecture, UI/UX, Responsive Design, Modern JavaScript
     </td>
     <td align="center" width="33%">
-      <h4>🎓 Continuous Learning</h4>
-      ML Specialization, GCP Fundamentals, Emerging Tech Exploration
+      <h4>🔐 DevOps & Quality</h4>
+      Docker, Kubernetes basics, 98% Test Coverage, Pipeline Optimization, Git Workflows
     </td>
   </tr>
 </table>
@@ -123,7 +123,8 @@
 
 ## 📈 Stats at a Glance
 
-- **25+** public repositories across cloud, backend, mobile, and AI domains
+- **25+** public repositories spanning backend, frontend, mobile, cloud, and AI domains
+- **Full-Stack Expertise** across NestJS, React, Django, Kotlin, and Python
 - **98%** test coverage maintained in production systems
 - **5** years of professional & academic engineering experience
 - **3** major cloud platforms: AWS, GCP, and infrastructure automation
