@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hi 👋, I'm Zimmy Changela
+  Hi, I'm Zimmy Changela
 </h1>
 
 <p align="center">
